@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "自定义tabbar",
+  "usingComponents": {
+    "tui-tabbar": "/components/tui-tabbar/tui-tabbar"
+  }
+}

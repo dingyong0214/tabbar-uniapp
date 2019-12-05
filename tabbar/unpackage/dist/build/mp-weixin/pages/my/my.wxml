@@ -1,0 +1,1 @@
+<view>个人中心<tui-tabbar vue-id="1" tabBar="{{tabBar}}" bind:__l="__l"></tui-tabbar></view>
